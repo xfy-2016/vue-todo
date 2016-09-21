@@ -1,6 +1,6 @@
-# ife-task-4
+# vue.js
 
-> A Vue.js project
+> A Vue.js practice project
 
 ## Build Setup
 
